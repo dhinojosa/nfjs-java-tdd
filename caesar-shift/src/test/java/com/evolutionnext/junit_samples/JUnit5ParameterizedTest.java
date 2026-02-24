@@ -1,4 +1,4 @@
-package com.xyzcorp.junit_samples;
+package com.evolutionnext.junit_samples;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.*;
